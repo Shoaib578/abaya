@@ -18,6 +18,7 @@ import ContactUsScreen from './screens/ContactUsScreen/ContactUsScreen';
 import AbayaHomeDrawerNavigation from './AbayaHomeDrawerNavigation';
 import AboutUsScreen from './screens/AboutUsScreen/AboutUsScreen';
 import Payment from './screens/Payment/';
+import Review from './screens/Review/';
 const Stack = createStackNavigator();
 const HomeStack = createStackNavigator();
 const Drawer = createDrawerNavigator();
